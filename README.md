@@ -8,12 +8,12 @@ Para empezar la practica primero abrimos play with docker e iniciamos sesión
 
 
 Los comando a utilizar para la practica son: 
- docker run: descarga y ejecuta un contenedor
- -d: Permite correr en segundo plano
- - - name: Agrega el nombre del contenedor
- -p: Especifica que el puerto del anfitrión y el puerto del contenedor
- -e: variable de entorno para el usuario Postgres
-  postgres: nombre de la imagen tal cual aparece en el buscardor de dockerhub
+ * docker run: descarga y ejecuta un contenedor
+ * -d: Permite correr en segundo plano
+ * - - name: Agrega el nombre del contenedor
+ * -p: Especifica que el puerto del anfitrión y el puerto del contenedor
+ * -e: variable de entorno para el usuario Postgres
+ *  postgres: nombre de la imagen tal cual aparece en el buscardor de dockerhub
  
  
  PASO 2:
