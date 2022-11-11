@@ -30,7 +30,7 @@ PASO 3:
 
 Poner el siguiente comando para poner el EMAIL y la CONTRASEÑA
 
-docker run -d --name pgadmin -p 8090:80 -e PGADMIN_DEFAULT_EMAIL=maguaman2@sudamericano.edu.ec -e PGADMIN_DEFAULT_PASSWORD=admin dpage/pgadmin4
+docker run -d --name pgadmin -p 8090:80 -e PGADMIN_DEFAULT_EMAIL=dflandi@sudamericano.edu.ec -e PGADMIN_DEFAULT_PASSWORD=admin dpage/pgadmin4
 
 ![image](https://user-images.githubusercontent.com/91167254/201430894-5beadba5-66f2-4b81-89c4-66ba76d62174.png)
 ![image](https://user-images.githubusercontent.com/91167254/201430924-6cffffe7-5029-4924-bf63-3d37a7960bc0.png)
