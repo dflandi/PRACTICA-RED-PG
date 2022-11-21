@@ -42,6 +42,13 @@ PASO 4:
  
 ![image](https://user-images.githubusercontent.com/91167254/201431081-a1bbe06f-b3f4-46de-bd6e-3ddf29b074a9.png)
 
+Y poner las credenciales para el inicio de sesión, al entrar a pgAdmin darle a añadir nuevo servidor
+
+
+![WhatsApp Image 2022-11-19 at 12 01 14](https://user-images.githubusercontent.com/91167254/202937367-81b680f1-8136-4918-af1c-cc40fe84c0d8.jpeg)
+ 
+ 
+Posteriormente agregar todas las credenciales para crear la base de datos
 
 PASO 5:
 
