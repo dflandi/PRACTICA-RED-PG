@@ -50,6 +50,9 @@ Y poner las credenciales para el inicio de sesión, al entrar a pgAdmin darle a 
  
 Posteriormente agregar todas las credenciales para crear la base de datos
 
+![WhatsApp Image 2022-11-19 at 12 01 20](https://user-images.githubusercontent.com/91167254/202937506-7ae9486c-22e5-42df-8978-7aa14a4ddade.jpeg)
+
+
 PASO 5:
 
 Crear red poniendo el siguiente comando:
